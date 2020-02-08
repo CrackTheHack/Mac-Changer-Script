@@ -14,4 +14,4 @@ chmod +x macchange
 
 done!
 
-# Happy Hacking :)
+# If You Are Online ByDefault You Are Vulnerable...!!
